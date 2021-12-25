@@ -1,0 +1,138 @@
+# depslib dependency file v1.0
+1631446156 source:/home/shaman/Soft/AVR/328p/chapeka/main.c
+	"main.h"
+
+1631400129 /home/shaman/Soft/AVR/328p/chapeka/main.h
+	<avr/io.h>
+	<avr/interrupt.h>
+	<avr/pgmspace.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<ctype.h>
+	<avr/eeprom.h>
+	"IO_Macros.h"
+	"softuart.h"
+	"timer.h"
+	"UART.h"
+	"port.h"
+	"GSM.h"
+	"sms_parse.h"
+	"eeprom.h"
+	"app.h"
+
+1627291313 /home/shaman/Soft/AVR/328p/chapeka/IO_Macros.h
+	<avr/io.h>
+	"main.h"
+
+1626736080 /home/shaman/Soft/AVR/328p/chapeka/softuart.h
+	"main.h"
+
+1631216472 /home/shaman/Soft/AVR/328p/chapeka/timer.h
+
+1623682506 /home/shaman/Soft/AVR/328p/chapeka/UART.h
+
+1628897524 /home/shaman/Soft/AVR/328p/chapeka/port.h
+
+1631396639 /home/shaman/Soft/AVR/328p/chapeka/app.h
+
+1626809852 source:/home/shaman/Soft/AVR/328p/chapeka/softuart.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	<avr/pgmspace.h>
+	"softuart.h"
+
+1631216349 source:/home/shaman/Soft/AVR/328p/chapeka/timer.c
+	"main.h"
+
+1626825383 source:/home/shaman/Soft/AVR/328p/chapeka/UART.c
+	"main.h"
+
+1631396639 source:/home/shaman/Soft/AVR/328p/chapeka/app.c
+	"main.h"
+
+1631231715 /home/shaman/Soft/AVR/328p/chapeka/GSM.h
+
+1631231515 /home/shaman/Soft/AVR/328p/chapeka/sms_parse.h
+
+1631301942 /home/shaman/Soft/AVR/328p/chapeka/eeprom.h
+
+1631398392 source:/home/shaman/Soft/AVR/328p/chapeka/eeprom.c
+	"main.h"
+
+1631397719 source:/home/shaman/Soft/AVR/328p/chapeka/GSM.c
+	"main.h"
+
+1631301182 source:/home/shaman/Soft/AVR/328p/chapeka/port.c
+	"main.h"
+
+1631231515 source:/home/shaman/Soft/AVR/328p/chapeka/sms_parse.c
+	"main.h"
+
+1636830799 source:/home/prapor/AVR/328p/chapeka/app.c
+	"main.h"
+
+1636918780 /home/prapor/AVR/328p/chapeka/main.h
+	<avr/io.h>
+	<avr/interrupt.h>
+	<avr/pgmspace.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<ctype.h>
+	<avr/eeprom.h>
+	"IO_Macros.h"
+	"softuart.h"
+	"timer.h"
+	"UART.h"
+	"port.h"
+	"GSM.h"
+	"sms_parse.h"
+	"eeprom.h"
+	"app.h"
+
+1637228233 /home/prapor/AVR/328p/chapeka/IO_Macros.h
+	<avr/io.h>
+	"main.h"
+
+1626736080 /home/prapor/AVR/328p/chapeka/softuart.h
+	"main.h"
+
+1631216472 /home/prapor/AVR/328p/chapeka/timer.h
+
+1623682506 /home/prapor/AVR/328p/chapeka/UART.h
+
+1628897524 /home/prapor/AVR/328p/chapeka/port.h
+
+1636992971 /home/prapor/AVR/328p/chapeka/GSM.h
+
+1636993852 /home/prapor/AVR/328p/chapeka/sms_parse.h
+
+1636825779 /home/prapor/AVR/328p/chapeka/eeprom.h
+
+1637222858 /home/prapor/AVR/328p/chapeka/app.h
+
+1636825750 source:/home/prapor/AVR/328p/chapeka/eeprom.c
+	"main.h"
+
+1636831053 source:/home/prapor/AVR/328p/chapeka/main.c
+	"main.h"
+
+1636900002 source:/home/prapor/AVR/328p/chapeka/port.c
+	"main.h"
+
+1636826379 source:/home/prapor/AVR/328p/chapeka/sms_parse.c
+	"main.h"
+
+1626809852 source:/home/prapor/AVR/328p/chapeka/softuart.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	<avr/pgmspace.h>
+	"softuart.h"
+
+1636544853 source:/home/prapor/AVR/328p/chapeka/timer.c
+	"main.h"
+
+1626825383 source:/home/prapor/AVR/328p/chapeka/UART.c
+	"main.h"
+
